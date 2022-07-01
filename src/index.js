@@ -238,7 +238,7 @@ function App() {
 
           <section
             className='non-parallax-container section-1'
-            style={{ display: 'flex' }}
+            style={{ display: 'flex', height: '100vh' }}
           >
             {/* <SubHero /> */}
           </section>

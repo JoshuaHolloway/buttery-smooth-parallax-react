@@ -1,0 +1,22 @@
+// Workspace settings
+{
+  // https://stackoverflow.com/a/36193178
+  // The following will hide the js and map files in the editor
+  "files.exclude": {
+    // "**/*.ts": true,
+    ".vscode/extensions.json": true,
+    ".vscode/launch.json": true,
+    ".vscode/tasks.json": true,
+    "node_modules/": true,
+    "README.md": true,
+    ".netlify": true,
+    // "build": true,
+    // "public": true,
+    "package-lock.json": true,
+    "gsap-bonus.tgz": true
+    // "package.json": true
+  }
+  // https://youtu.be/WgUftBzky1U
+  // https://youtu.be/WvUS7H5uGAo
+  // https://stackoverflow.com/a/71776204
+}
